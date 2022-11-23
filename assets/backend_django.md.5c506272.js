@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as a,a as o}from"./app.fa70c266.js";const u=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"backend/django.md"}'),n={name:"backend/django.md"},s=o("p",null,"Coming soon...",-1),c=[s];function r(d,_,i,p,l,m){return a(),t("div",null,c)}const g=e(n,[["render",r]]);export{u as __pageData,g as default};
