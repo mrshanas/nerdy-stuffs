@@ -13,6 +13,6 @@
   "scripts": {
     "dev": "vitepress dev docs --port=3000",
     "build": "vitepress build docs",
-    "server": "vitepress serve docs"
+    "serve": "vitepress serve docs --port 5000"
   }
 }

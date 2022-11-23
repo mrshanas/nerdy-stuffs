@@ -80,6 +80,7 @@ export default {
       message: "Released under the MIT License",
       copyright: `Copyright &copy; ${new Date().getFullYear()} @mrshanas`,
     },
+    base: "nerdy-stuffs",
   },
   title: "Memorandum",
   description: "My own small Google & StackOverflow",
