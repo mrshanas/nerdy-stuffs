@@ -3,10 +3,14 @@ title: Flutter
 ---
 
 # {{ $frontmatter.title }}
+Flutter has a very good documentation which is easy to understand, make use of referring from the [docs](https://docs.flutter.dev)
 
 ## Table of Contents
+1. [App Icons](#app-icons)
+2. [Problems I Encountered](#problem-i-encountered)
 
-1. [Problems I Encountered](#problem-i-encountered)
+### App Icons
+Upload an image/icon you want to use as an app icon to [AppIcon](https://appicon.co) website, then download the generated icon folders for `ios` and `android` or other platforms if were selected and replace them in the project's folder having the same names
 
 ### Problem I Encountered
 
