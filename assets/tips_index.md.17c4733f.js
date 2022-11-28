@@ -1,1 +1,0 @@
-import{_ as e,c as t,o,a as s}from"./app.fa70c266.js";const u=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"tips/index.md"}'),n={name:"tips/index.md"},a=s("p",null,"Coming soon...",-1),r=[a];function c(i,d,_,p,l,m){return o(),t("div",null,r)}const x=e(n,[["render",c]]);export{u as __pageData,x as default};
