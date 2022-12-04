@@ -63,6 +63,7 @@ export default {
         text: "Programming Languages",
         collapsible: true,
         items: [
+          { text: "Dart", link: "/languages/dart" },
           { text: "TypeScript", link: "/languages/ts" },
           { text: "Python", link: "/languages/py" },
         ],
