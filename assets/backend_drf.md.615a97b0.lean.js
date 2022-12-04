@@ -1,1 +1,0 @@
-import{_ as e,c as t,o as a,a as o}from"./app.fa70c266.js";const u=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"backend/drf.md"}'),n={name:"backend/drf.md"},s=o("p",null,"Coming soon...",-1),r=[s];function c(d,_,i,p,f,l){return a(),t("div",null,r)}const h=e(n,[["render",c]]);export{u as __pageData,h as default};
