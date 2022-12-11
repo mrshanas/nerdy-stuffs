@@ -14,13 +14,6 @@ export default {
         text: "Guides",
         link: "/tips",
       },
-      {
-        text: "Timeline",
-        items: [
-          { text: "2022", link: "/timeline/2022" },
-          { text: "2021", link: "/timeline/2021" },
-        ],
-      },
     ],
     socialLinks: [
       { icon: "github", link: "https://github.com/mrshanas" },
