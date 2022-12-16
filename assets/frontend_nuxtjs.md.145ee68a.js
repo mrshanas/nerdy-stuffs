@@ -1,0 +1,1 @@
+import{_ as t,c as e,o as n,b as o}from"./app.1072a7de.js";const u=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"frontend/nuxtjs.md"}'),s={name:"frontend/nuxtjs.md"},a=o("p",null,"Coming soon...",-1),r=[a];function c(_,d,i,p,l,f){return n(),e("div",null,r)}const x=t(s,[["render",c]]);export{u as __pageData,x as default};
