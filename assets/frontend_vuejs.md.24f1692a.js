@@ -1,1 +1,0 @@
-import{_ as e,c as t,o,b as s}from"./app.1072a7de.js";const u=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"frontend/vuejs.md"}'),n={name:"frontend/vuejs.md"},a=s("p",null,"Coming soon...",-1),r=[a];function c(_,d,i,p,l,f){return o(),t("div",null,r)}const h=e(n,[["render",c]]);export{u as __pageData,h as default};

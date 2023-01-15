@@ -1,0 +1,1 @@
+import{_ as e,c as t,o,b as s}from"./app.1d386d8c.js";const u=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"frontend/reactjs.md"}'),a={name:"frontend/reactjs.md"},n=s("p",null,"Coming soon...",-1),r=[n];function c(_,d,i,p,l,f){return o(),t("div",null,r)}const h=e(a,[["render",c]]);export{u as __pageData,h as default};

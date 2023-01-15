@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as n,b as o}from"./app.1d386d8c.js";const u=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"frontend/nextjs.md"}'),s={name:"frontend/nextjs.md"},a=o("p",null,"Coming soon...",-1),r=[a];function c(_,d,i,p,l,f){return n(),t("div",null,r)}const x=e(s,[["render",c]]);export{u as __pageData,x as default};
