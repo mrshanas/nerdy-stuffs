@@ -1,2 +1,2 @@
-# nerdy-stuffs
- My own small Google
+# Nerdy Stuffs
+ My own small Google & Stackoverflow
